@@ -1,0 +1,9 @@
+TESTS MAKEFILE
+Test: [make]: Success
+Test: [make fclean]: Success
+Test: [make re]: Success
+
+
+
+
+TEST TWO INPUTS

@@ -1,0 +1,98 @@
+TESTS MAKEFILE
+Test: [make]: Success
+Test: [make fclean]: Success
+Test: [make re]: Success
+
+
+
+
+Test: 1
+Input: ['-83382533', '-514239020', '-1914065740', '-126598235', '1012084652', '-211362399', '1602151996', '-98121610', '-1754374385', '-68254948']
+Compilation: Success
+Nbr_to_sort/Nbr_of_Moves: 10/29
+Limit_of_Move: No Limit
+Is_Sorted: Success
+
+
+
+Test: 2
+Input: ['263970979', '-1456033685', '-252883477', '-1142248594', '104929388', '1379298911', '1508059133', '-152358600', '-1208905763', '-381594318']
+Compilation: Success
+Nbr_to_sort/Nbr_of_Moves: 10/29
+Limit_of_Move: No Limit
+Is_Sorted: Success
+
+
+
+Test: 3
+Input: ['1014337741', '-1282461966', '-1649038595', '-1230198972', '1661990499', '-1870689532', '1404314089', '-538837656', '-860329740', '-1934997278']
+Compilation: Success
+Nbr_to_sort/Nbr_of_Moves: 10/27
+Limit_of_Move: No Limit
+Is_Sorted: Success
+
+
+
+Test: 4
+Input: ['1271296488', '173119853', '77084014', '-1250235679', '-142908459', '171350037', '-854169563', '-1594745395', '-557499947', '-378327123']
+Compilation: Success
+Nbr_to_sort/Nbr_of_Moves: 10/23
+Limit_of_Move: No Limit
+Is_Sorted: Success
+
+
+
+Test: 5
+Input: ['95983093', '485697492', '959328425', '-395661943', '455037759', '772743008', '411624310', '1636387996', '436677998', '-1906274656']
+Compilation: Success
+Nbr_to_sort/Nbr_of_Moves: 10/28
+Limit_of_Move: No Limit
+Is_Sorted: Success
+
+
+
+Test: 6
+Input: ['1794945167', '1914415627', '2139852698', '1890461805', '-23214609', '-1231450486', '1756906632', '1536875462', '-195496662', '-36094170']
+Compilation: Success
+Nbr_to_sort/Nbr_of_Moves: 10/26
+Limit_of_Move: No Limit
+Is_Sorted: Success
+
+
+
+Test: 7
+Input: ['159042110', '-1626312925', '-791713993', '1993899280', '-1891873158', '-197288706', '1625140447', '1132663821', '-961221246', '1098738886']
+Compilation: Success
+Nbr_to_sort/Nbr_of_Moves: 10/33
+Limit_of_Move: No Limit
+Is_Sorted: Success
+
+
+
+Test: 8
+Input: ['-1587948359', '-209071278', '-1196828969', '-392095732', '1158136941', '1181966319', '835950431', '-127359590', '1019103488', '-356663502']
+Compilation: Success
+Nbr_to_sort/Nbr_of_Moves: 10/29
+Limit_of_Move: No Limit
+Is_Sorted: Success
+
+
+
+Test: 9
+Input: ['-1870516225', '1604726695', '978652988', '-1181041100', '-1685074439', '1624465306', '-561051690', '397902865', '-1604272556', '-294108620']
+Compilation: Success
+Nbr_to_sort/Nbr_of_Moves: 10/31
+Limit_of_Move: No Limit
+Is_Sorted: Success
+
+
+
+Test: 10
+Input: ['-604155978', '-310754157', '-1136453417', '-1477489005', '-935965150', '2140320729', '-255264144', '1363924404', '-539890180', '-1884905674']
+Compilation: Success
+Nbr_to_sort/Nbr_of_Moves: 10/30
+Limit_of_Move: No Limit
+Is_Sorted: Success
+
+
+
